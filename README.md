@@ -21,6 +21,8 @@ YAML files should be stored in /etc/super-duper-parakeet/ with file names of loc
 
 ### API
 
+<https://www.weather.gov/documentation/services-web-api>
+
 ## code behavior
 
 code should read in the yaml files, and retrieve the weather data for the locations.
